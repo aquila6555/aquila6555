@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=adriancrawshaw&unique={true|1|on|yes})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
 
 <!--
 **aquila6555/aquila6555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
