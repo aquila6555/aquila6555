@@ -1,3 +1,6 @@
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
+
+
 ## Hi there 👋
 
 ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
